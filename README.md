@@ -1,1 +1,2 @@
 # codehealth-ci-cd-nome-sobrenome
+A **CodeHealth** é uma startup fictícia que está criando um **sistema web de agendamento médico**, permitindo que pacientes marquem consultas e médicos gerenciem seus horários online. Para garantir entregas rápidas e seguras, o time adotou práticas de **DevOps**, integrando **desenvolvimento e operações**. Assim, cada atualização passa por **integração contínua (CI)**, **testes automatizados** e **implantação contínua (CD)**, reduzindo falhas e garantindo mais confiabilidade no sistema.
